@@ -7,7 +7,7 @@ This is the project using AI
 
 Original | Dotted | Lego | Lego colors
 --- | --- | --- | ---
-![original](./images/legodot.png) | ![dotted](./images/dots.png) | ![lego](./images/lego.png) | ![lego colors](./images/lego-colors.png)
+![original](./images/legodot.png) | ![dotted](./images/dots.png) | ![lego](./images/lego.png) | ![lego colors](./images/lego-colors1.png)
 
 ## Live
 You can check demo [here]()
